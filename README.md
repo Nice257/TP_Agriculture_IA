@@ -1,4 +1,4 @@
-#  Prédiction des Récoltes au Burundi
+streamlit run app.py#  Prédiction des Récoltes au Burundi
 
 > Projet de Travaux Pratiques — Intelligence Artificielle Appliquée à l'Agriculture  
 > BAC 4 Génie Logiciel — Université Polytechnique de Gitega (UPG)
